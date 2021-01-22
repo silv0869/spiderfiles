@@ -1,6 +1,24 @@
 Background
+- Diversity crisis and the role that phylogenetics plays in it
+- Sky Islands and their unique environments
+- Aphonopelma genus as a study system for the sky island diversity
+	Mention the new species being discovered at higher elevations
+	maxent progam showing the potential habitats at LGM and most recent
+	next generation sequencng methods making it easier to flesh out new data and create better more informative trees
+- Research extended to Mexico where there have been specimens found
+- Estimates of how many new species we could find!
 Materials and Methods
+
 Significance
+- Species of conservation concern
+- insight into phylogenetics and evolutionary history of the Aphonopelma species of the Madrean Sky Islands 
+- Future population genetics research on tarantulas of the americas
+- Insight into biogeographic information and how species diversify in sky islands
+- Additionally, this research will inform
+- Taxonomy in a difficult group with high potential for species discovery.
+- Recruitment of undergraduates to help with field and molecular work
+- Mentoring of students inetersted in STEM
 Budget
+- Funding from this grant will primarily go towards field work in the collection of more specimens from areas not looked at before
 References
 Tables and Figures
