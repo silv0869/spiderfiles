@@ -22,3 +22,48 @@ Budget
 - Funding from this grant will primarily go towards field work in the collection of more specimens from areas not looked at before
 References
 Tables and Figures
+
+Draft
+Previous comments:
+As for other broader impacts of the research, this was not well-defined and what was there is
+poorly defined – e.g., Why is documenting species important? Why is it important to understand the effects
+of climate change on these habitats?. How is this research and experience (if the NSF was to fund you)
+going to boost your career? How is it going to provide you something that you won’t get another way?
+
+This is an exciting project that has the potential to reveal hyperdiversity in a group of tarantulas that have
+been largely overlooked in Arizona and northern Mexico. Species-level diversity in the Aphonopelma
+marxi group is underestimated and several members of this lineage are of conservation concern due to their
+restricted distributions and vulnerable habitat. As a consequence, a project that delimits species in this
+group is of utmost importance. In addition to increasing our knowledge about the diversity and distributions
+of these spiders, the project has potential for providing broader intellectual impacts in methodology (e.g.,
+development of new species delimitation protocols) and conservation.
+
+biogeographical analysis: One
+reason this region is so fascinating is because of its complex geological and climatic histories. Several
+hypotheses have been proposed to explain the distribution of Sky Island endemics (e.g., extensional
+tectonics, niche-tracking due to climate change), but how do we explain the distribution of these tarantulas?
+How long ago did populations diverge from each other? In addition to providing important insights into
+speciation pattern and process for organisms in fragmented landscapes, answers to these questions would
+inform the species delimitation study in a truly integrative manner.
+
+Aphonopelma madera is known from the Huachuca, Pajarito, and Santa Rita Mountains (not the
+Patagonias, although these mountains are the next obvious place to search for the species). Also, it may be
+too strong to say that populations of A. madera found on these different mountain ranges are “irreversibly
+isolated”. The primary reason Hendrixson et al. (2015) and Hamilton et al. (2016) considered samples from
+different mountain ranges as the same species is because potentially suitable habitat connecting the
+Huachucas and Santa Ritas (i.e., Canelo Hills) has not been sampled. Similarly, it is unknown if pockets of
+suitable habitat connect the Pajaritos to the Patagonias and Huachucas. This species has been collected
+from a low-elevation (4050 ft) riparian site in the town of Patagonia (Hendrixson et al. 2015) so it does not
+appear to be restricted to oak woodlands or higher-elevation vegetation zones. Given this information, it is
+difficult to argue that the populations are irreversibly isolated. The applicant is strongly encouraged to read
+the recent paper published by Graham et al. (2020) on the biogeography of A. marxi too.
+Finally, the proposal could be made stronger if the Mexican arachnological research groups (that will assist
+with field work in northern Mexico) have been identified because they will be the collection permittees.
+The field work component of the project might also be expanded to include the northern Sierra Madre
+Occidental. It should be noted, however, that field work in the border states of Sonora and Chihuahua has
+become increasingly challenging in recent years.
+Background
+
+In light of the current biodiversity crisis and the limited resources available for endangered species management the Delimitation of species boundaries is essential in order to accurately predict evolutionary relationships. In the last decade great advances have been made in the analysis of genetic data that has made it possible for scientists to infer species limits and detect cryptic lineage diversity, allowing for greater accuracy in determining relationships between species.
+ 
+
